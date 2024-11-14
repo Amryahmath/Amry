@@ -2,7 +2,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1122F7&width=435&lines=HI%2C+I+AM+AMRY+AHMATH+%F0%9F%91%8B" alt="Typing SVG" /></a><br>
      
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" hight="200"></h1>
-<h3 align="center">Turning Data into Insight | IT Undergraduate @ University of Moratuwa, Sri Lanka | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Turning Data into Insight | IT Undergraduate @ University of Moratuwa, Sri Lanka | AI & Machine Learning Enthusiast | English Diploma Student @ Aquinas College</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amryahmath&label=Profile%20views&color=0e75b6&style=flat" alt="amryahmath" /> </p>
 
